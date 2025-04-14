@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lost_and_found_system/1.0.0": {
+        "runtime": {
+          "lost_and_found_system.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lost_and_found_system/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
