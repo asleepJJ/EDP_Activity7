@@ -36,3 +36,9 @@ C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\obj
 C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\obj\Debug\net8.0-windows\lost_and_found_system.LoginForm.resources
 C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\obj\Debug\net8.0-windows\lost_and.F32F5225.Up2Date
 C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\obj\Debug\net8.0-windows\lost_and_found_system.DashboardForm.resources
+C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Jerald Jay\source\repos\lost_and_found_system\lost_and_found_system\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll

@@ -31,7 +31,7 @@ namespace lost_and_found_system
         {
 
         }
-        private void btnLogin_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             // Optional: Validate username/password here
 
